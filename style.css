@@ -1,0 +1,73 @@
+body{
+    background-color:red;
+    
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+  font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btnContainer{
+    text-align: center;
+    border: 2px solid;
+    padding: 1.5em;
+    border-radius: 10em;
+    background-color:  rgb(229, 125, 14);
+}
+
+.button{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color:  rgb(229, 125, 14);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.button:hover{
+    background-color: rgb(239, 173, 103);
+}
+#dua{
+    text-align: center;
+}
+/* .list{
+    padding: 10px 50px;
+} */
+
+#list {
+    padding: 10px 20px;
+    gap: 20px;
+}
+
+
+#list1  {
+    padding: 10px 20px;
+    background-color:rgb(229, 125, 14);
+}
+#list1:hover{
+    background-color: rgb(239, 173, 103);
+}
+#list2{
+    padding: 10px 20px;
+    background-color:rgb(229, 125, 14);
+}
+#list2:hover{
+    background-color: rgb(239, 173, 103);
+}
+#list3{
+    padding: 10px 20px;
+    background-color:rgb(229, 125, 14);
+}
+#list3:hover{
+    background-color: rgb(239, 173, 103);
+}
+#list4{
+    padding: 10px 20px;
+    background-color:rgb(229, 125, 14);
+}
+#list4:hover{
+    background-color: rgb(239, 173, 103);
+}
